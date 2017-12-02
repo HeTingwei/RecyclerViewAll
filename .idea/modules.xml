@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DifferentItem/Test.iml" filepath="$PROJECT_DIR$/DifferentItem/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeaderAndFooter/HeaderAndFooter.iml" filepath="$PROJECT_DIR$/HeaderAndFooter/HeaderAndFooter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Normal/Normal.iml" filepath="$PROJECT_DIR$/Normal/Normal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullDownRefresh/PullDownRefresh.iml" filepath="$PROJECT_DIR$/PullDownRefresh/PullDownRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullUpRefresh/PullUpRefresh.iml" filepath="$PROJECT_DIR$/PullUpRefresh/PullUpRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewAll.iml" filepath="$PROJECT_DIR$/RecyclerViewAll.iml" />
+    </modules>
+  </component>
+</project>
